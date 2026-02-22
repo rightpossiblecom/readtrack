@@ -1,0 +1,38 @@
+Short Description (80 chars max):
+Track daily reading time and build your reading streak.
+
+Full Description:
+ReadTrack is a simple, focused reading time tracker designed to help you build a daily reading habit.
+
+Every day, log how many minutes you read. ReadTrack tracks your streak, shows your weekly progress, and motivates you to stay consistent — one day at a time.
+
+No accounts. No cloud. No complexity. Everything stays on your device.
+
+FEATURES
+
+Track Daily Reading
+Open the app, enter your minutes, and log your session. That is all it takes.
+
+Reading Streak
+Your streak grows every day you log reading time. Miss a day and it resets. Simple, honest tracking.
+
+Daily Reading Goal
+Set a personal daily reading goal (default: 20 minutes). A progress indicator fills as you log minutes. Reach your goal and get a small celebration.
+
+Weekly Summary
+See your reading history for the last 7 days at a glance. Review total minutes read and your longest streak.
+
+Dark Mode
+Full support for light and dark mode. Switch anytime from Settings.
+
+Privacy First
+ReadTrack collects no personal data. Nothing is sent to any server. Your reading logs stay on your device only.
+
+PERFECT FOR
+- Students building a study habit
+- Professionals who want to read more
+- Anyone looking for a simple reading log
+
+No ads. No subscriptions. No noise.
+
+Just open it, log your minutes, and close it.
