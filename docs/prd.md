@@ -4,6 +4,8 @@
 
 ## 1️⃣ App Goal
 
+app url https://readtrack.vercel.app/
+
 ReadTrack helps users build a daily reading habit by tracking how many minutes they read each day and showing their consistency through a streak counter.
 
 The focus is:
